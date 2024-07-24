@@ -1,0 +1,34 @@
+.security {
+    padding: 20px;
+    background: #444;
+    color: #fff;
+    flex-grow: 1;
+  }
+  
+  .section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .basics, .devices {
+    margin-bottom: 20px;
+  }
+  
+  .item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .devices ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .devices li {
+    margin-bottom: 10px;
+  }
+  
